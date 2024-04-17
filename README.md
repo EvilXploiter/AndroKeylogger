@@ -5,7 +5,7 @@ AndroKeylogger is a powerful Android keylogger application designed to provide a
 ## Features
 
 ### Fully Undetectable
--Bypass All Anti-virus [Please Donn't Upload On Virustotal]
+-Bypass All Anti-virus [Please Don't Upload On Virustotal]
 
 ### Anti-Uninstall Protection
 - Prevents unauthorized users from uninstalling the application without proper authorization.
